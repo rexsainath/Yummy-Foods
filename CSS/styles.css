@@ -1,0 +1,43 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align:center;
+    background:linear-gradient(45deg,lightsalmon, lightgreen);
+}
+table{
+    width:100%;
+}
+h1{
+    font-size:38px;
+    text-shadow:0 0 10px black;
+    font-family:'Castellar',serif;
+    font-weight:bolder;
+}
+img{
+    width:270px;
+    height:170px;
+    border-radius:15px;
+    box-shadow:0 0 10px black;
+}
+img.main{
+    width:500px;
+    height:270px;
+}
+p{
+    text-align:justify;
+    font-family:'comic sans ms',serif;
+}
+h2{
+ width:60%;
+ margin:auto;
+ background:linear-gradient(45deg,black,darkred,black);
+ color:white;
+ padding:15px;
+ border-radius:60% 60% 0px 0px;
+ border-bottom:5px solid white;
+}
+a{
+    font-size:18px;
+    font-family:'comic sans ms',serif;
+}
